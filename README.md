@@ -3,6 +3,7 @@
 This respository serves as a tracking of STL files, for designs created and used within the lab.
 | Name             | Description                          | Image                           | Download File               | More info |
 |------------------|--------------------------------------|---------------------------------|-----------------------------| --------------|
+| Botzo Robot Dog  | STL files for Botzo our Robot Dog | <img src="images/botzo.jpg" width="100">          |      | [link to repo](https://github.com/botzo-team/STL_files) |
 | Universal Marker     | STL file for creating arbitrary rigid bodies | <img src="images/universal_marker.png" width="100">          | [Download](files/optitrack/Universal_Marker_3.stl)     |  |
 | WX-250 Base | STL file for base of WX-250 robot arm | <img src="images/WX-250_Base.png" width="100"> | [Download](files/WX-250_robot_garden/base/bottom_base_WX-250.stl) | [link to repo](https://github.com/IE-Robotics-Lab/WX250_support_structure) |
 | WX-250 Base for Optitrak | STL file for base of WX-250 robot arm tuend with M3 scrues for Optitrack detection | <img src="https://github.com/IERoboticsAILab/3d_printing_designs/blob/main/images/WX-250_Base_for_optitrack.png" width="100"> | [Download](https://github.com/IERoboticsAILab/3d_printing_designs/blob/main/files/WX-250_robot_garden/base/bottom_base_WX-250_for%20Optitrack.stl) | [link to repo](https://github.com/IERoboticsAILab/clever_lamp) |
