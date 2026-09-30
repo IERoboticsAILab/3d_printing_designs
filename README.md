@@ -34,3 +34,7 @@ This respository serves as a tracking of STL files, for designs created and used
 | tapper holder  | tapper holder for ONCE | <img src="images/tapper_holder.png" width="100">          |   [Download](https://github.com/IERoboticsAILab/3d_printing_designs/blob/main/files/hardware_lab/tapper_holder.stl)   |  |
 | Projector Clamp  | Projector clamp for vertical attachment on truss | <img src="images/projector_clamp.png" width="100">          |   [Download](https://github.com/IERoboticsAILab/3d_printing_designs/blob/main/files/hardware_lab/projector_clamp.stl)   |  |
 | Puck | Puck for Robotics & Automation Lab | <img src="https://github.com/IERoboticsAILab/3d_printing_designs/blob/main/images/blue_puck.png" width="100"> | [Download](https://github.com/IERoboticsAILab/3d_printing_designs/blob/main/files/hardware_lab/puck.stl) |  |
+| Kinova tray base | STL file for the base ring/tray of the Kinova tray assembly | <img src="images/tray_base.png" width="100"> | [Download](files/kinova/tray_base.stl) |  |
+| Kinova tray disk | STL file for the flat disk plate of the Kinova tray assembly | <img src="images/tray_disk.png" width="100"> | [Download](files/kinova/tray_disk.stl) |  |
+| Kinova tray infrastructure | STL file for the handle/arch structure of the Kinova tray assembly | <img src="images/tray_infra.png" width="100"> | [Download](files/kinova/tray_infra.stl) |  |
+| Kinova tray top | STL file for the top disk with central column of the Kinova tray assembly | <img src="images/tray_top.png" width="100"> | [Download](files/kinova/tray_top.stl) |  |
